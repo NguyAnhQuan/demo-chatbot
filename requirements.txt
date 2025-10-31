@@ -1,0 +1,45 @@
+# Django Framework
+Django>=5.0.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+
+# Core dependencies
+torch>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & NLP
+sentence-transformers>=2.3.0
+transformers>=4.35.0
+scikit-learn>=1.3.0
+
+# Document processing
+PyMuPDF>=1.23.0
+python-docx>=0.8.11
+pywin32>=306
+Pillow>=10.0.0
+
+# OCR libraries
+easyocr>=1.7.0
+pytesseract>=0.3.10
+
+# Text processing
+nltk>=3.8.1
+
+# Vector database
+chromadb>=0.4.22
+
+# Google AI (Gemini)
+google-generativeai>=0.3.0
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+
+# Utility libraries
+typing-extensions>=4.7.0
+
+# Database
+# sqlite3 (built-in with Python)
+
+# Additional utilities
+dataclasses-json>=0.6.0  # For data serialization
+requests>=2.31.0  # HTTP library
